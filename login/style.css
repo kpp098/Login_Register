@@ -175,17 +175,43 @@ color: #b3b3b3;
 .foot p {
 	margin-top: 16%;
 	color: aqua;
-	animation: abc 6s linear infinite;
+	animation: abc 3s linear infinite;
 }
 @keyframes abc {
-	0%{color:red;}
+	0%{
+		color:yellowgreen;
+	}
 	50%{
 		color: aqua;
 	}
 	100%{
-		color:none;
+		color:yellowgreen;
 	}
 }
-.login-box .login-snip .login-space .login .foot p{
-	color: red;
+.tab11 {
+	border: 2px solid;
+	border-radius: 5px;
+	border-top: none;
+	border-bottom: dashed;
+	padding: 4px;
+	animation: abcd 3s linear infinite;
+}
+@keyframes abcd{
+	0%{
+		color:yellowgreen;
+		border: none;
+	}
+	50%{
+		color: aqua;
+		border: 2px solid;
+		border-bottom: none;
+		border-left: 50%;
+		border-top: none;
+
+	}
+	100%{
+		color: yellowgreen;
+		border: none;
+	}
+
 }
