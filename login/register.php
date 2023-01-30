@@ -38,7 +38,7 @@
 		<div class="card">
 <div class="login-box">
 	<div class="login-snip">
-		<input id="tab-2" type="radio" name="tab" class="sign-in" checked><label for="tab-2" style="margin-left: 30%;" class="tab">Register</label>
+		<input id="tab-2" type="radio" name="tab" class="sign-in" checked><label for="tab-2" style="margin-left: 30%;" class="tab tab11">Register</label>
 		<input id="tab-1" type="radio" name="tab" class="sign-up"><label for="tab-1" class="tab"></label>
 		<div class="login-space">
 			<div class="login">
@@ -79,7 +79,7 @@
 				<div class="hr"></div>
 				<div class="foot">
 					<a style="color:aqua;" href="login.php">Login Here</a>
-					<p style="margin-top:15%;">Made by Kashyap </p>
+					<p>Made by Kashyap </p>
 				</div>
 			</div>
 
