@@ -90,7 +90,7 @@
 				<div class="hr" ></div>
 				<div class="foot" >
 					<a style="color:aqua;" href="register.php">Register Here</a>
-				    <p style="margin-top:20%;">Made by Kashyap </p>
+				    <p>Made by Kashyap </p>
 
 				</div>
 			</div>
